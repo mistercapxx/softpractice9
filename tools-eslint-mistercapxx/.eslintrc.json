@@ -1,0 +1,15 @@
+{
+    "rules": {
+      "indent": ["error", 4],
+      "space-infix-ops": ["error", { "int32Hint": false }],
+      "quotes": ["error", "single"],
+      "no-var": "error",
+      "prefer-const": "error",
+      "eqeqeq": "error",
+      "no-console": "error",
+      "no-cond-assign": "error",
+      "no-extra-semi": "error",
+      "multiline-comment-style": ["error", "separate-lines"],
+      "no-else-return": "error"
+    }
+  }

@@ -1,0 +1,20 @@
+{
+  "name": "babel_project",
+  "version": "1.0.0",
+  "description": "babel project",
+  "author": "IT Academy",
+  "license": "ISC",
+  "scripts": {
+
+      "build": "babel src/lib -d dist/lib"
+    
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.13",
+    "@babel/preset-env": "^7.24.6"
+    
+  }
+  
+  
+}

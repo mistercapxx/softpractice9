@@ -1,0 +1,69 @@
+.card {
+  float:left;
+  padding: 18px 40px 18px 40px;
+  margin: auto;
+
+}
+
+.content {
+  display:flex;
+}
+
+.picture {
+  height: 168px;
+  width: 125px;
+  border-radius: 5px;
+}
+
+.textBox {
+  padding: 20px 0px 20px 20px;
+}
+
+.textLocationBox {
+    display:flex;
+    align-items: center;
+    font-weight: 500;
+  }
+
+.textLocationLogo {
+  width: 7px;
+  margin-right:4px;
+}
+
+.textLocationCountry {
+  line-height: 12px;
+  letter-spacing: 0.17em;
+  font-size: 10.24px;
+  line-height: 12px;
+  margin-right: 12px;
+}
+
+.textLocationBox > a {
+  color: #918E9B;
+  font-size: 11px;
+  line-height: 12px;
+  text-decoration-line: underline;
+}
+
+.textTitle {
+  padding: 7px 0px 5px 0px;
+  font-weight: bold;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.textTravelDates {
+  font-weight: bold;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 12px;
+  margin-bottom: 10px;
+}
+
+.textDescription {
+  color: #2B283A;
+  font-size: 10px;
+  line-height: 150%;
+}
+

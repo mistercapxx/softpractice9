@@ -1,0 +1,12 @@
+{
+  "name": "eslint_project",
+  "version": "1.0.0",
+  "description": "eslint project",
+  "author": "IT Academy",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.3.0",
+    "eslint": "^9.3.0",
+    "globals": "^15.3.0"
+  }
+}
